@@ -174,8 +174,9 @@ queue_6 : "<b> ᴅᴜʀᴀᴛɪᴏɴ :</b> ᴜɴᴋɴᴏᴡɴ ᴅᴜʀᴀᴛɪ�
 queue_7 : "\n❍ ᴄʟɪᴄᴋ ᴏɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴡʜᴏʟᴇ ǫᴜᴇᴜᴇᴅ ʟɪsᴛ."
 queue_8 : "<b>{0} ᴘʟᴀʏᴇʀ</b>\n\n <b>sᴛʀᴇᴀᴍɪɴɢ :</b> {1}\n\n🔗 <b>sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> {2}\n <b>ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}\n{4}"
 
-stream_1 : "<b>❖ Sᴛᴀʀᴛᴇᴅ  Sᴛʀᴇᴀᴍɪɴɢ |</b>\n\n<b>❍ Tɪᴛʟᴇ :</b> <a href={0}>{1}</a>\n<b>❍ Dᴜʀᴀᴛɪᴏɴ :</b> {2} ᴍɪɴᴜᴛᴇs\n<b>❍ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}\n\n**❖ 𝖬ᴀᴅᴇ ʙʏ ➛ [⋏ 𝛅 𝛕 ⋏](https://t.me/ixasta)**"
-stream_2 : "<b>❖  Sᴛᴀʀᴛᴇᴅ  Sᴛʀᴇᴀᴍɪɴɢ |</b>\n\n<b>❍ Sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n<b>❍ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {0}"
+stream_1 : "<b><blockquote>❖  𝛅ᴛᴧʀᴛєᴅ  𝛅ᴛʀєᴧϻɪηɢ  </blockquote></b>\n<blockquote><b>❍ тɪᴛʟє :</b> <a href={0}>{1}</a>\n<b>❍ ᴅᴜʀᴧᴛɪση :</b> {2} ϻɪηᴜᴛєs\n<b>❍ ʙʏ :</b> {3}</blockquote>\n<b><blockquote>❖  ϻᴧᴅє  ʙʏ  ➛  [⋏ 𝛅 𝛕 ⋏](https://t.me/ixasta)</b></blockquote>"
+stream_2 : "<b><blockquote>❖  𝛅ᴛᴧʀᴛєᴅ  𝛅тʀєᴧϻɪηɢ  </blockquote></b>\n<blockquote><b>❍ 𝛅ᴛʀєᴧϻ ᴛʏᴘᴇ :</b> ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n<b>❍ ᴘʟᴧʏ ʙʏ :</b> {0}</blockquote>"
+
 CLOSE_BUTTON  : "🥂 ᴄʟᴏsᴇ 🥂"
 BACK_BUTTON : "ʙᴀᴄᴋ"
 NEXT_PAGE: ">"
