@@ -13,7 +13,7 @@ start_txt = """
  
 ✰ 𝗣ᴀʜʟᴇ 𝗣ᴀᴘᴀ 𝗕ᴏʟ 𝗥ᴇᴘᴏ 𝗢ᴡɴᴇʀ ᴋᴏ 
 
-✰ || @iamakki001 ||
+✰ || @ixasta1 ||
  
 ✰ 𝗥ᴜɴ 24x7 𝗟ᴀɢ 𝗙ʀᴇᴇ 𝗪ɪᴛʜᴏᴜᴛ 𝗦ᴛᴏᴘ
  
@@ -30,13 +30,13 @@ async def start(_, msg):
         ],
         [
           InlineKeyboardButton("𝗛ᴇʟᴘ", url="https://t.me/oldskoolgc"),
-          InlineKeyboardButton("ꪜ 𝛊 ɭ ɭ ᧘ 𝛊 𝛈", url="https://t.me/iamakki001"),
+          InlineKeyboardButton("⋏ 𝛅 𝛕 ⋏", url="https://t.me/ixasta"),
           ],
                [
-                InlineKeyboardButton("˹ᴠɪʟʟᴀɪɴ ꭙ ꜱᴜᴘᴘᴏʀᴛ˼", url=f"https://t.me/iamvillain77"),
+                InlineKeyboardButton("˹ᴀsᴛᴀ ꭙ sᴜᴘᴘᴏʀᴛ˼", url=f"https://t.me/ixasta1"),
 ],
 [
-InlineKeyboardButton("𝗠ᴀɪɴ 𝗕ᴏᴛ", url=f"https://t.me/radha_music_bot"),
+InlineKeyboardButton("𝗠ᴀɪɴ 𝗕ᴏᴛ", url=f"https://t.me/Laibaamusicbot"),
 
         ]]
     
