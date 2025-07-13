@@ -7,15 +7,15 @@ import httpx
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 start_txt = """
-✰ 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐀𝐒𝐓𝐀 𝐑𝐄𝐏𝐎𝐒 ✰
+✰ 𝗪ᴇʟᴄᴏᴍᴇ ᴛᴏ 𝗥ᴇᴘᴏs ✰
  
-✰ 𝐑𝐄𝐏𝐎 𝐓𝐎𝐇 𝐍𝐇𝐈 𝐌𝐈𝐋𝐄𝐆𝐀 𝐁𝐒𝐃𝐊
+✰ 𝗥ᴇᴘᴏ ᴛᴏ 𝗡ʜɪ 𝗠ɪʟᴇɢᴀ 𝗬ʜᴀ
  
-✰ 𝐏𝐇𝐄𝐋𝐄 𝐏𝐀𝐏𝐀 𝐁𝐎𝐋 𝐑𝐄𝐏𝐎 𝐎𝐖𝐍𝐄𝐑 𝐊𝐎
+✰ 𝗣ᴀʜʟᴇ 𝗣ᴀᴘᴀ 𝗕ᴏʟ 𝗥ᴇᴘᴏ 𝗢ᴡɴᴇʀ ᴋᴏ 
 
-✰ || @ixasta ||
+✰ || @iamakki001 ||
  
-✰ 𝐑𝐔𝐍 𝟐𝟒𝐱𝟕 𝐋𝐀𝐆 𝐅𝐑𝐄𝐄 𝐖𝐈𝐓𝐇𝐎𝐔𝐓 𝐒𝐓𝐎𝐏
+✰ 𝗥ᴜɴ 24x7 𝗟ᴀɢ 𝗙ʀᴇᴇ 𝗪ɪᴛʜᴏᴜᴛ 𝗦ᴛᴏᴘ
  
 """
 
@@ -26,24 +26,24 @@ start_txt = """
 async def start(_, msg):
     buttons = [
         [ 
-          InlineKeyboardButton("ᴧᴅᴅ ϻᴇ ʙᴧʙʏ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
+          InlineKeyboardButton("𝗔ᴅᴅ ᴍᴇ 𝗠ᴀʙʏ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton(" ɢʀσᴜᴘ", url="https://t.me/oldskoolgc"),
-          InlineKeyboardButton("⋏ 𝛅 𝛕 ⋏", url="https://t.me/ixasta"),
+          InlineKeyboardButton("𝗛ᴇʟᴘ", url="https://t.me/oldskoolgc"),
+          InlineKeyboardButton("ꪜ 𝛊 ɭ ɭ ᧘ 𝛊 𝛈", url="https://t.me/iamakki001"),
           ],
                [
-                InlineKeyboardButton("˹ᴀsᴛᴀ ꭙ sᴜᴘᴘᴏʀᴛ˼", url=f"https://t.me/ixasta1"),
+                InlineKeyboardButton("˹ᴠɪʟʟᴀɪɴ ꭙ ꜱᴜᴘᴘᴏʀᴛ˼", url=f"https://t.me/iamvillain77"),
 ],
 [
-InlineKeyboardButton("ϻᴧɪη ʙσᴛ", url=f"https://t.me/Laibaamusicbot"),
+InlineKeyboardButton("𝗠ᴀɪɴ 𝗕ᴏᴛ", url=f"https://t.me/radha_music_bot"),
 
         ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://files.catbox.moe/3gykym.jpg",
+        photo="https://files.catbox.moe/t3mcsf.jpg",
         caption=start_txt,
         reply_markup=reply_markup
     )
