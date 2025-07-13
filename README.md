@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"
   
-<b>![𝐕𝐈𝐋𝐋𝐀𝐈𝐍 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓𝐒](https://t.me/iamvillain77")</b>
+<b>![𝐕𝐈𝐋𝐋𝐀𝐈𝐍 𝐁𝐎𝐓𝐒](https://t.me/iamvillain77")</b>
 
 ### 𝗩ɪsɪᴛᴏʀs 🍹
 
