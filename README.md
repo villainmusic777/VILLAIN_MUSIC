@@ -30,7 +30,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=villainmusic777&theme=onedark&hide_border=false)<br/>
 
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=𝐕𝐈𝐋𝐋𝐀𝐈𝐍 𝐌𝐔𝐒𝐈𝐂&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=villainmusic777&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 
 <p align="center">&nbsp;
