@@ -16,12 +16,12 @@
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/villainmusic777/VILLAIN_MUSIC"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
 
 <!--
-**TEAMPURVI/TEAMPURVI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**villainmusic777/villainmusic77 7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/TEAMPURVI/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/villainmusic77 7/count.svg" />
 </p>
 
 
