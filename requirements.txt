@@ -35,7 +35,7 @@ speedtest-cli
 unidecode
 urllib3
 wget
-git+https://github.com/KurimuzonAkuma/pyrogram@dev
+git+https://github.com/KurimuzonAkuma/pyrogram.git@2ae00a2710dd3e347798473f3dd784e9639edb1a
 yt-dlp
 bing_image_downloader
 git+https://github.com/alexmercerind/youtube-search-python@main
